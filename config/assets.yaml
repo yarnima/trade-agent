@@ -1,0 +1,132 @@
+stocks:
+stocks:
+  - symbol: "ارزش مسکن"
+    provider: "tsetmc"
+
+  - symbol: "اخابر"
+    provider: "tsetmc"
+
+  - symbol: "انرژی"
+    provider: "tsetmc"
+
+  - symbol: "پالايش"
+    provider: "tsetmc"
+
+  - symbol: "بهین رو"
+    provider: "tsetmc"
+
+  - symbol: "تاصيكو"
+    provider: "tsetmc"
+
+  - symbol: "تیپیکو"
+    provider: "tsetmc"
+
+  - symbol: "جتر"
+    provider: "tsetmc"
+
+  - symbol: "خودران"
+    provider: "tsetmc"
+
+  - symbol: "خودرو"
+    provider: "tsetmc"
+
+  - symbol: "دارونو"
+    provider: "tsetmc"
+
+  - symbol: "ذوب"
+    provider: "tsetmc"
+
+  - symbol: "رانفور"
+    provider: "tsetmc"
+
+  - symbol: "رمینا"
+    provider: "tsetmc"
+
+  - symbol: "سیمانو"
+    provider: "tsetmc"
+
+  - symbol: "شیران"
+    provider: "tsetmc"
+
+  - symbol: "شتران"
+    provider: "tsetmc"
+
+  - symbol: "شسپا"
+    provider: "tsetmc"
+
+  - symbol: "شپنا"
+    provider: "tsetmc"
+
+  - symbol: "شنفت"
+    provider: "tsetmc"
+
+  - symbol: "طلا"
+    provider: "tsetmc"
+
+  - symbol: "افق"
+    provider: "tsetmc"
+
+  - symbol: "کالا"
+    provider: "tsetmc"
+
+  - symbol: "کچاد"
+    provider: "tsetmc"
+
+  - symbol: "گکل"
+    provider: "tsetmc"
+
+  - symbol: "معدن"
+    provider: "tsetmc"
+
+  - symbol: "ميدكو"
+    provider: "tsetmc"
+
+  - symbol: "همراه"
+    provider: "tsetmc"
+
+  - symbol: "وبانك"
+    provider: "tsetmc"
+
+  - symbol: "وبصادر"
+    provider: "tsetmc"
+
+  - symbol: "وتجارت"
+    provider: "tsetmc"
+
+  - symbol: "ومعادن"
+    provider: "tsetmc"
+
+  - symbol: "ومهان"
+    provider: "tsetmc"
+
+  - symbol: "وسپهر"
+    provider: "tsetmc"
+
+  - symbol: "وصندوق"
+    provider: "tsetmc"
+
+  - symbol: "ويملت"
+    provider: "tsetmc"
+
+  - symbol: "ونوين"
+    provider: "tsetmc"
+
+  - symbol: "وخازم"
+    provider: "tsetmc"
+
+crypto:
+
+  - symbol: "BTCUSDT"
+    provider: "binance"
+
+  - symbol: "ETHUSDT"
+    provider: "binance"
+
+  - symbol: "BNBUSDT"
+    provider: "binance"
+
+  - symbol: "SOLUSDT"
+    provider: "binance"
+
+  - symbol: "XRPUSDT"
+    provider: "binance"
