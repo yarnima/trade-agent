@@ -1,0 +1,14 @@
+binance:
+  - BTCUSDT
+  - ETHUSDT
+  - BNBUSDT
+  - SOLUSDT
+  - XRPUSDT
+
+tsetmc:
+  - ticker: فملی
+    label: FEMLI
+  - ticker: شپنا
+    label: SHEPNA
+  - ticker: وخارزم
+    label: VAKHARAZM
